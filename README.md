@@ -83,7 +83,7 @@ Enter number of similar passages(e.g. 3):3
 </details>
 
 <details><summary>Results</summary>
-```
+
 ------------------------------------------
 You queried:
 URN: urn:cts:greekLit:tlg0003.tlg001.perseus-grc2:2.2.4
