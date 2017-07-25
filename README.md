@@ -15,6 +15,7 @@ Browse MeleteToPan generated theta.csv to explore Manhattan distances between pa
 ## Example Terminal Output
 
 <details><summary>When TBB starts up</summary>
+
 ```
 Locals-MacBook-Pro:TopanTerminalBrowser koentges$ ./tbb 
 Reading file.
@@ -74,8 +75,10 @@ Topic 50 ὁπλίταις_αὐτῷ_ξυμμάχων_τρόπῳ_νικίας_
 Significant distance has been set to:  0.1
 Happy navigating!
 ```
+
 </details>
 <details><summary>User input</summary>
+
 ```
 Enter URN (e.g.urn:cts:greekLit:tlg0003.tlg001.perseus-grc2:2.2.4):
 Enter number of similar passages(e.g. 3):3
@@ -84,6 +87,7 @@ Enter number of similar passages(e.g. 3):3
 
 <details><summary>Results</summary>
 
+```
 ------------------------------------------
 You queried:
 URN: urn:cts:greekLit:tlg0003.tlg001.perseus-grc2:2.2.4
@@ -143,6 +147,7 @@ Distance Topic 35 ὁπλίτας_ξυμμάχων_ἱππέας_χιλίους_
 Distance Topic 49 τρόπῳ_ἔξω_δέ_τινες_ἀπόλλωνος_πολλὰ_ὃ : 0.142952380952381
 ------------------------------------------
 </details>
+```
 
 ## Run your own
 
